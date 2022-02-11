@@ -1,7 +1,6 @@
 # Friday the 13th!
 ## Setup
-- Run  
-`json-server --watch db.json`
+Run `json-server --watch db.json`
 
 ## Challenge 1
 For each movie returned from `http://localhost:3000/movies` create an image and add it to the `movie-list` nav element.
