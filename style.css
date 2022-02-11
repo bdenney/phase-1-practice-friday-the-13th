@@ -1,0 +1,101 @@
+body {
+    background-color: black;
+    color: white;
+    font-family: 'Bebas Neue', cursive;
+}
+
+#right-side {
+    margin-left:auto;
+}
+
+.icon {
+    width:30px;
+    height:auto;
+    vertical-align: middle;
+}
+#amount {
+    font-size: 25px;
+}
+
+.logo {
+    margin: 20px 0px 20px 0px;
+}
+
+#movie-list {
+    display:flex;
+    justify-content: center;
+}
+
+#movie-list img {
+    width: 100px;
+    height: auto;
+    margin: 7px;
+}
+
+#movie-list img:hover {
+    filter: drop-shadow(0 0 0.75rem white)
+}
+
+#movie-info {
+    display: flex;
+    height: 400px;
+    justify-content: center;
+    margin-top: 25px;
+}
+
+#movie-info img {
+    height: auto;
+    margin: 7px;
+    filter: drop-shadow(0 0 1em #c93642)
+}
+
+#movie-info div {
+    width: 500px;
+    margin-left: 20px;
+}
+
+#movie-info div p {
+    font-family: 'Nanum Gothic', sans-serif;
+}
+
+form {
+    width:200px;
+}
+
+button {
+    border: 0;
+    width:200px;
+    color: black;
+    background: white; 
+    padding: 10px;
+    border-radius: 5px;
+    font-size: 20px;
+    font-family: 'Bebas Neue', cursive;
+}
+
+input[type=text] {
+    display:inline-block;
+    border: 0;
+    width:100%;
+    color: black;
+    background: white; 
+    padding: 10px;
+    border-radius: 5px;
+    font-size: 20px;
+    font-family: 'Bebas Neue', cursive;
+    box-sizing: border-box;
+}
+
+input[type=submit] {
+    display:inline-block;
+    border: 0;
+    width:100%;
+    color: black;
+    background: white; 
+    padding: 10px;
+    border-radius: 5px;
+    font-size: 20px;
+    font-family: 'Bebas Neue', cursive;
+    box-sizing: border-box;
+    margin-top: 10px;
+}

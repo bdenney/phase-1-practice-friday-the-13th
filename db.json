@@ -1,0 +1,112 @@
+{
+    "movies" : [
+        {
+            "id": 1,
+            "title": "Friday the 13th",
+            "release_year": 1980,
+            "description": "Camp counselors are stalked and murdered by an unknown assailant while trying to reopen a summer camp that was the site of a child's drowning.",
+            "image": "./assets/f13-1.jpeg",
+            "watched": false,
+            "blood_amount": 0
+        },
+        {
+            "id": 2,
+            "title": "Friday the 13th Part 2",
+            "release_year": 1981,
+            "description": "Five years after the horrible bloodbath at Camp Crystal Lake, it seems Jason Voorhees and his demented mother are in the past. Paul opens up a new camp close to the infamous site, ignoring warnings to stay away, and a sexually-charged group of counselors follow -- including child psychologist major Ginny. But Jason has been hiding out all this time, and now he's ready for revenge.",
+            "image": "./assets/f13-2.jpeg",
+            "watched": false,
+            "blood_amount": 0
+        },
+        {
+            "id": 3,
+            "title": "Friday the 13th Part III",
+            "release_year": 1982,
+            "description": "An idyllic summer turns into a nightmare of unspeakable terror for yet another group of naive counselors. Ignoring Camp Crystal Lake's bloody legacy, one by one they fall victim to the maniacal Jason who stalks them at every turn.",
+            "image": "./assets/f13-3.jpeg",
+            "watched": false,
+            "blood_amount": 0
+        },
+        {
+            "id": 4,
+            "title": "Friday the 13th: The Final Chapter",
+            "release_year": 1984,
+            "description": "After being mortally wounded and taken to the morgue, murderer Jason Voorhees spontaneously revives and embarks on a killing spree as he makes his way back to his home at Crystal Lake.",
+            "image": "./assets/f13-finalchapter.jpeg",
+            "watched": false,
+            "blood_amount": 0
+        },
+        {
+            "id": 5,
+            "title": "Friday the 13th: A New Beginning",
+            "release_year": 1985,
+            "description": "Homicidal maniac Jason returns from the grave to cause more bloody mayhem. Young Tommy may have escaped from Crystal Lake, but he’s still haunted by the gruesome events that happened there. When gory murders start happening at the secluded halfway house for troubled teens where he now lives, it seems like his nightmarish nemesis, Jason, is back for more sadistic slaughters.",
+            "image": "./assets/f13-newbeginning.jpeg",
+            "watched": false,
+            "blood_amount": 0
+        },
+        {
+            "id": 6,
+            "title": "Friday the 13th Part VI: Jason Lives",
+            "release_year": 1986,
+            "description": "Determined to finish off the infamous killer Jason Voorhees once and for all, Tommy Jarvis and a friend exhume Jason’s corpse in order to cremate him. Things go awry when Jason is instead resurrected, sparking a new chain of ruthlessly brutal murders. Now it’s up to Tommy to stop the dark, devious and demented deaths that he unwittingly brought about.",
+            "image": "./assets/f13-jasonlives.jpeg",
+            "watched": false,
+            "blood_amount": 0
+        },
+        {
+            "id": 7,
+            "title": "Friday the 13th Part VII: The New Blood",
+            "release_year": 1988,
+            "description": "A young girl who possesses the power of telekinesis accidentally causes her father's death after a family dispute at Crystal Lake. Years later, when a doctor tries to exploit her abilities, her power becomes a hellish curse, and she unwittingly unchains the merciless, bloodthirsty Jason Voorhees from his watery grave.",
+            "image": "./assets/f13-newblood.jpeg",
+            "watched": false,
+            "blood_amount": 0
+        },
+        {
+            "id": 8,
+            "title": "Friday the 13th Part VIII: Jason Takes Manhattan",
+            "release_year": 1989,
+            "description": "A group of students on a graduation cruise bound for Manhattan soon realize they've got a stowaway aboard the ship: serial killer Jason Voorhees.",
+            "image": "./assets/f13-manhattan.jpeg",
+            "watched": false,
+            "blood_amount": 0
+        },
+        {
+            "id": 9,
+            "title": "Jason Goes to Hell: The Final Friday",
+            "release_year": 1993,
+            "description": "Jason Voorhees, the living, breathing essence of evil, is back for one fierce, final fling! Tracked down and blown to bits by a special FBI task force, everyone now assumes that he's finally dead. But everybody assumes wrong. Jason has been reborn with the bone-chilling ability to assume the identity of anyone he touches. The terrifying truth is that he could be anywhere, or anybody. In this shocking, blood-soaked finale to Jason's carnage-ridden reign of terror, the horrible secret of his unstoppable killing instinct is finally revealed. And once you know the chilling facts, you'll see him in your nightmares! And he'll see you in hell!",
+            "image": "./assets/f13-hell.jpeg",
+            "watched": false,
+            "blood_amount": 0
+        },
+        {
+            "id": 10,
+            "title": "Jason X",
+            "release_year": 2002,
+            "description": "In the year 2455, Old Earth is now a contaminated planet abandoned for centuries -- a brown world of violent storms, toxic landmasses and poisonous seas. Yet humans have returned to the deadly place that they once fled, not to live, but to research the ancient, rusting artifacts of the long-gone civilizations. But it's not the harmful environment that could prove fatal to the intrepid, young explorers who have just landed on Old Earth. For them, it's Friday the 13th, and Jason lives!",
+            "image": "./assets/f13-x.jpeg",
+            "watched": false,
+            "blood_amount": 0
+        },
+        {
+            "id": 11,
+            "title": "Freddy vs. Jason",
+            "release_year": 2003,
+            "description": "In an attempt to free himself from a state of forgotten limbo, evil dream-demon Freddy Krueger devises a plan to manipulate un-dead mass murderer Jason Voorhees into slicing-and-dicing his way through the teenage population of Springwood. But when the master of dreams loses control of his monster, a brutal fight to the death is the only way out.",
+            "image": "./assets/f13-freddyvjason.jpeg",
+            "watched": false,
+            "blood_amount": 0
+        },
+        {
+            "id": 12,
+            "title": "Friday the 13th",
+            "release_year": 2009,
+            "description": "A group of young adults visit a boarded up campsite named Crystal Lake where they soon encounter the mysterious Jason Voorhees and his deadly intentions.",
+            "image": "./assets/f13-remake.jpeg",
+            "watched": false,
+            "blood_amount": 0
+        }
+    ]
+}
