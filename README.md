@@ -1,4 +1,8 @@
 # Friday the 13th!
+
+![Finished project](./assets/finished-project.png)
+
+Create an homage to Camp Crystal Lake's most infamous campers, Jason Vorhees.
 ## Setup
 Run `json-server --watch db.json`
 
@@ -9,7 +13,7 @@ For each movie returned from `http://localhost:3000/movies` create an image and 
 As soon as the page loads, we should see the details of the **first** movie in the dataset.
 
 ## Challenge 3
-When you click on each movie image, you should populate the detail area with the`title`, `release_year`, `description`, `watched`, and `blood_amount` for the movie that was clicked.
+When you click on each movie image in the top nav, you should populate the detail area with the `image`, `title`, `release_year`, `description`, `watched`, and `blood_amount` for the movie that was clicked.
 
 If the value of 'watched' is false, the button should say 'Unwatched'. If the value is true, then the button should say 'Watched'.
 
